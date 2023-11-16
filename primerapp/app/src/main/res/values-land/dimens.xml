@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">48dp</dimen>
+    <dimen name="photo_size">48dp</dimen>
+    
+    <dimen name="button_x_size">181dp</dimen>
+    <dimen name="button_y_size">92dp</dimen>
+    <dimen name="text_size_content">100dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+</resources>
